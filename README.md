@@ -1,1 +1,3 @@
-# Arduino-based-Autonomous-Shopping-Cart-
+# Autonomous-Shopping-Cart
+
+Full Hardware Project Code
