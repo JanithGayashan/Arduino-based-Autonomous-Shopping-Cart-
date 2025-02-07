@@ -299,31 +299,7 @@ void setup() {
 	Serial.println("1");
 
   findItem();
-  //rotateServoMovement();
-     
-  // startMovement(); 
-	//stopMotor();
-
-  //getOrder();  
-
-  // if (item1 == 1){
-  // //moveVehicle(item1Distance);   
-  // fixPosition(); 
-  // ; 
-  // } 
-  //else if (item2 == 2) {   
-  // fixPosition();  
-  // rotateServoFirstMovement();     
-  // startMovement(); 
-  // } else if (item3 == 3) {   
-  // fixPosition();  
-  // rotateServoFirstMovement();     
-  // startMovement(); 
-  // } else if (item4 == 4) {   
-  // fixPosition();  
-  // rotateServoFirstMovement();     
-  // startMovement(); 
-  // } 
+  
 }
 
 void loop() {
